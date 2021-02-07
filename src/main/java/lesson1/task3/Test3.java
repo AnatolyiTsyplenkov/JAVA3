@@ -40,6 +40,12 @@ public class Test3 {
         System.out.println("Weight of box3 " + box3.getWeight());
         System.out.println("Weight of box4 " + box4.getWeight());
 
+        System.out.println();
+
+        System.out.println("Weight of box1 " + box1.getWeight());
+        System.out.println("Weight of box2 " + box2.getWeight());
+        System.out.println("Weight of box3 " + box3.getWeight());
+        System.out.println("Weight of box4 " + box4.getWeight());
     }
 
 }
